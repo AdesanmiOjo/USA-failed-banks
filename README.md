@@ -59,4 +59,10 @@ iii. Daily Spike Investigation: Investigate the root causes of daily spikes in b
 
 iv. Long-Term Planning: Continuously monitor the long-term trend in bank failures and adapt regulatory and policy measures to ensure the overall stability of the banking industry.
 
+
 This Power BI dashboard serves as a valuable tool for stakeholders to monitor and make informed decisions regarding bank failures in the USA. It is essential for maintaining a robust and stable financial system.
+
+
+**Here is a link to interact with the dashboard**
+
+https://app.powerbi.com/view?r=eyJrIjoiN2Q5NDliOTMtNjBkOC00NDUzLWEzOWYtMWZmZGFiOGE1MzlkIiwidCI6IjU3ZjM5NjcyLTEyMjgtNDhmMy05MmQ5LTM5MmQyYWRhYzY5OCJ9
