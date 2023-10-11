@@ -35,7 +35,7 @@ This bar chart visualizes the daily distribution of bank failures. It offers a d
 Total Banks by Year:
 The line chart presents a year-by-year view of the total number of failed banks over time. This allows users to identify long-term trends and changes.
 
-**Trends and Insights**
+- **Trends and Insights**
 
 i. City Analysis: Certain cities have consistently experienced a higher number of bank failures. Exploring the reasons behind this regional disparity could lead to more targeted regulatory measures.
 
@@ -45,11 +45,11 @@ iii. Daily Peaks: The bar chart by day reveals spikes in bank failures on specif
 
 iv. Long-Term Trends: The line chart demonstrates the overall trend in bank failures over the years. This trend is a valuable indicator for assessing the health and stability of the banking industry.
 
-**Conclusion**
+- **Conclusion**
 
 The Power BI dashboard provides a comprehensive view of bank failures in the USA, with KPIs, slicers, and visualizations that offer valuable insights into the data. It is evident that there are patterns and trends that can be further investigated to improve regulatory and risk management strategies in the banking sector.
 
-**Recommendations**
+- **Recommendations**
 
 i. Enhanced Regional Monitoring: Collaborate with regulatory authorities and banking institutions in cities with a high number of bank failures to implement proactive measures.
 
